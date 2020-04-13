@@ -19,7 +19,7 @@ body {
 h1 {
   text-align: center;
   text-transform: capitalize;
-  margin: 2rem 0;
+  margin: 1.5rem 0;
   color: var(--mainWhite);
   letter-spacing: 5px;
 }
@@ -165,7 +165,7 @@ label {
   .App,
   .list,
   .alert {
-    width: 85%;
+    width: 75%;
   }
 
   .list {
